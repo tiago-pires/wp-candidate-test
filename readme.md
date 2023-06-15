@@ -15,7 +15,7 @@
 1. Create a WordPress local installation.
 1. Use git to version control your work and commit as you go.
 1. Create plugin code that adds a global alert banner to the top of the Twenty Twenty One classic theme. See [banner design](https://www.figma.com/file/pasOUazcXHCSt8YPyz8oBx/Untitled?type=design&node-id=0%3A1&t=yqDtWF6rHuzxpm7m-1) in figma.
-1. Banner button should open a new message.
+1. Banner button should toggle a message.
 1. Authors should be able to remove this banner from specific pages and posts.
 1. You can use plugins to create custom fields only.
 1. Push the code to a GitHub repo at the end.
