@@ -12,7 +12,7 @@
 
 1. Create a WordPress local installation.
 1. Use git to version control your work and commit as you go.
-1. Create a child theme to modify the Twentey Twenty One default theme
+1. Create a child theme to modify the Twenty Twenty One default theme
 1. Update the homepage to use a card design like in the attached image (use any image you like)
 
 ## Designs
