@@ -6,7 +6,6 @@
 1. Utilize Git to keep track of changes in WordPress.
 1. Creating WordPress child themes to update a parent theme.
 1. Follow WordPress customization patterns.
-1. Identifying use specific theme hooks.
 1. Writing custom CSS.
 
 ## Briefing
