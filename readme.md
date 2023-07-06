@@ -24,5 +24,5 @@
 ## Expectations
 
 - The test must be completed solely by you. Use any coding tools and resources that you are familiar with to simulate authentic dev conditions.
-- We expect this task to be done in up to 45min.
+- We expect this task to be done in up to 30 min. We will allow extra 15 mins at our discretion (depending on how close the candidate is to completing the task).
 
